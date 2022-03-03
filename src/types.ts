@@ -19,6 +19,8 @@ export enum BinanceInterval {
 export enum BinancePair {
     ethusdt = 'ethusdt',
     dotusdt = 'dotusdt',
+    movrusdt = 'movrusdt',
+    ksmusdt = 'ksmusdt',
 }
 
 export type ClientMap = {
